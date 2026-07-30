@@ -1,4 +1,4 @@
-**USH Sales Analysis — Python Final Project**
+**RUSH Sales Analysis — Python Final Project**
 
 **Overview**
 Analysis of RUSH sportswear/footwear sales data (2020–2021) on behalf of the VP of US Sales. The raw data was provided as three separate tables (sales transactions, retailer locations, and product categories) and required cleaning before analysis.
